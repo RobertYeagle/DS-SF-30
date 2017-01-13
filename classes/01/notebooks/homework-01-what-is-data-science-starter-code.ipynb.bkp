@@ -29,8 +29,12 @@
    },
    "outputs": [],
    "source": [
+<<<<<<< HEAD
     "# TODO\n",
     "mylist =[1,2,3,4]"
+=======
+    "# Testing"
+>>>>>>> 21e64978146973ce782e1e40a8fd0db7b7e69afc
    ]
   },
   {
@@ -61,8 +65,12 @@
     }
    ],
    "source": [
+<<<<<<< HEAD
     "# TODO\n",
     "5 > 3 or 5  < 3"
+=======
+    "# Testing2"
+>>>>>>> 21e64978146973ce782e1e40a8fd0db7b7e69afc
    ]
   },
   {
@@ -524,7 +532,11 @@
  "metadata": {
   "anaconda-cloud": {},
   "kernelspec": {
+<<<<<<< HEAD
    "display_name": "Python [default]",
+=======
+   "display_name": "Python 2",
+>>>>>>> 21e64978146973ce782e1e40a8fd0db7b7e69afc
    "language": "python",
    "name": "python2"
   },
